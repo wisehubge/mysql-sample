@@ -28,3 +28,23 @@ docker run --name database-mysql -e MYSQL_ROOT_PASSWORD=secret -d -p 3306:3306 m
 - [x] UPDATE
 - [x] DELETE
 - [x] LIMIT
+- [x] MIN/MAX
+- [x] COUNT/AVG/SUM
+- [x] LIKE
+- [x] IN
+- [x] BEETWEEN
+- [x] Aliases
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] RIGHT JOIN
+- [x] CROSS JOIN
+- [x] UNION
+- [x] GROUP BY
+- [x] ALTER TABLE
+- [x] Constraints Not NULL
+- [x] Constraints UNIQUE 
+- [x] Constraints PRIMARY KEY
+- [x] Constraints FOREIGN KEY
+- [x] Constraints CHECK
+- [x] Constraints DEFAULT
+- [x] AUTO INCREMENT
